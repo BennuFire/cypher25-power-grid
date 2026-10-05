@@ -1,0 +1,14 @@
+max_hops,variant,routes,corridors,routesRevisitingABus,seconds,db_hits,status
+8,V1 ACYCLIC,226.0,8.0,0.0,0.31,1404829.0,ok
+8,V2 post-filter,226.0,8.0,0.0,1.23,7281902.0,ok
+8,V3 TRAIL,9626.0,205.0,9400.0,1.26,9057278.0,ok
+10,V1 ACYCLIC,834.0,28.0,0.0,2.06,13695400.0,ok
+10,V2 post-filter,834.0,28.0,0.0,19.45,123832084.0,ok
+10,V3 TRAIL,128378.0,1264.0,127544.0,21.9,154026532.0,ok
+12,V1 ACYCLIC,,,,,,did not finish: memory limit (2.2 GiB per transaction on Aura Free)
+12,V2 post-filter,,,,,,did not finish: memory limit (2.2 GiB per transaction on Aura Free)
+12,V3 TRAIL,,,,,,did not finish: memory limit (2.2 GiB per transaction on Aura Free)
+12,V4 ACYCLIC + 400 km budget,1410.0,14.0,0.0,1.99,12191318.0,ok
+12,V5 post-filter + 400 km budget,,,,,,did not finish: memory limit (2.2 GiB per transaction on Aura Free)
+12,V6 SHORTEST 10 ACYCLIC,10.0,2.0,0.0,0.05,3249.0,ok
+12,V7 SHORTEST 10,10.0,2.0,8.0,0.04,2005.0,ok

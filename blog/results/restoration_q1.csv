@@ -1,0 +1,6 @@
+variant,switches,units,seconds,db_hits,status
+V1 ACYCLIC + QPP + allReduce,9.0,54.0,0.21,389941.0,ok
+V2 QPP + allReduce (no ACYCLIC),9.0,54.0,0.18,397767.0,ok
+V3 ACYCLIC + QPP (no allReduce),9.0,54.0,9.61,68178879.0,ok
+V4 QPP only,,,,,did not finish: time limit (120s)
+V5 old variable-length syntax,,,,,did not finish: time limit (120s)

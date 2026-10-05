@@ -1,0 +1,13 @@
+{'max_hops': 8, 'variant': 'V1 ACYCLIC', 'routes': 226, 'corridors': 8, 'routesRevisitingABus': 0, 'seconds': 0.31, 'db_hits': 1404829, 'status': 'ok'}
+{'max_hops': 8, 'variant': 'V2 post-filter', 'routes': 226, 'corridors': 8, 'routesRevisitingABus': 0, 'seconds': 1.23, 'db_hits': 7281902, 'status': 'ok'}
+{'max_hops': 8, 'variant': 'V3 TRAIL', 'routes': 9626, 'corridors': 205, 'routesRevisitingABus': 9400, 'seconds': 1.26, 'db_hits': 9057278, 'status': 'ok'}
+{'max_hops': 10, 'variant': 'V1 ACYCLIC', 'routes': 834, 'corridors': 28, 'routesRevisitingABus': 0, 'seconds': 2.06, 'db_hits': 13695400, 'status': 'ok'}
+{'max_hops': 10, 'variant': 'V2 post-filter', 'routes': 834, 'corridors': 28, 'routesRevisitingABus': 0, 'seconds': 19.45, 'db_hits': 123832084, 'status': 'ok'}
+{'max_hops': 10, 'variant': 'V3 TRAIL', 'routes': 128378, 'corridors': 1264, 'routesRevisitingABus': 127544, 'seconds': 21.9, 'db_hits': 154026532, 'status': 'ok'}
+{'max_hops': 12, 'variant': 'V1 ACYCLIC', 'seconds': None, 'db_hits': None, 'status': 'did not finish: memory limit (2.2 GiB per transaction on Aura Free)'}
+{'max_hops': 12, 'variant': 'V2 post-filter', 'seconds': None, 'db_hits': None, 'status': 'did not finish: memory limit (2.2 GiB per transaction on Aura Free)'}
+{'max_hops': 12, 'variant': 'V3 TRAIL', 'seconds': None, 'db_hits': None, 'status': 'did not finish: memory limit (2.2 GiB per transaction on Aura Free)'}
+{'max_hops': 12, 'variant': 'V4 ACYCLIC + 400 km budget', 'routes': 1410, 'corridors': 14, 'routesRevisitingABus': 0, 'seconds': 1.99, 'db_hits': 12191318, 'status': 'ok'}
+{'max_hops': 12, 'variant': 'V5 post-filter + 400 km budget', 'seconds': None, 'db_hits': None, 'status': 'did not finish: memory limit (2.2 GiB per transaction on Aura Free)'}
+{'max_hops': 12, 'variant': 'V6 SHORTEST 10 ACYCLIC', 'routes': 10, 'corridors': 2, 'routesRevisitingABus': 0, 'seconds': 0.05, 'db_hits': 3249, 'status': 'ok'}
+{'max_hops': 12, 'variant': 'V7 SHORTEST 10', 'routes': 10, 'corridors': 2, 'routesRevisitingABus': 8, 'seconds': 0.04, 'db_hits': 2005, 'status': 'ok'}
